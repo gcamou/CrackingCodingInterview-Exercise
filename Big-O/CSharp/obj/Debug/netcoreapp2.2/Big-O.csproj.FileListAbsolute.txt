@@ -1,0 +1,11 @@
+/Volumes/gCamouInc/Dev/Projects/Trainning/CCI-Exercise/Big-O/bin/Debug/netcoreapp2.2/Big-O.deps.json
+/Volumes/gCamouInc/Dev/Projects/Trainning/CCI-Exercise/Big-O/bin/Debug/netcoreapp2.2/Big-O.runtimeconfig.json
+/Volumes/gCamouInc/Dev/Projects/Trainning/CCI-Exercise/Big-O/bin/Debug/netcoreapp2.2/Big-O.runtimeconfig.dev.json
+/Volumes/gCamouInc/Dev/Projects/Trainning/CCI-Exercise/Big-O/bin/Debug/netcoreapp2.2/Big-O.dll
+/Volumes/gCamouInc/Dev/Projects/Trainning/CCI-Exercise/Big-O/bin/Debug/netcoreapp2.2/Big-O.pdb
+/Volumes/gCamouInc/Dev/Projects/Trainning/CCI-Exercise/Big-O/obj/Debug/netcoreapp2.2/Big-O.csprojAssemblyReference.cache
+/Volumes/gCamouInc/Dev/Projects/Trainning/CCI-Exercise/Big-O/obj/Debug/netcoreapp2.2/Big-O.csproj.CoreCompileInputs.cache
+/Volumes/gCamouInc/Dev/Projects/Trainning/CCI-Exercise/Big-O/obj/Debug/netcoreapp2.2/Big-O.AssemblyInfoInputs.cache
+/Volumes/gCamouInc/Dev/Projects/Trainning/CCI-Exercise/Big-O/obj/Debug/netcoreapp2.2/Big-O.AssemblyInfo.cs
+/Volumes/gCamouInc/Dev/Projects/Trainning/CCI-Exercise/Big-O/obj/Debug/netcoreapp2.2/Big-O.dll
+/Volumes/gCamouInc/Dev/Projects/Trainning/CCI-Exercise/Big-O/obj/Debug/netcoreapp2.2/Big-O.pdb

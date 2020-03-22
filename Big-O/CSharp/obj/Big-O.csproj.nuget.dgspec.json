@@ -1,0 +1,58 @@
+{
+  "format": 1,
+  "restore": {
+    "/Volumes/gCamouInc/Dev/Projects/Trainning/CCI-Exercise/Big-O/Big-O.csproj": {}
+  },
+  "projects": {
+    "/Volumes/gCamouInc/Dev/Projects/Trainning/CCI-Exercise/Big-O/Big-O.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "/Volumes/gCamouInc/Dev/Projects/Trainning/CCI-Exercise/Big-O/Big-O.csproj",
+        "projectName": "Big-O",
+        "projectPath": "/Volumes/gCamouInc/Dev/Projects/Trainning/CCI-Exercise/Big-O/Big-O.csproj",
+        "packagesPath": "/Users/gcamou/.nuget/packages/",
+        "outputPath": "/Volumes/gCamouInc/Dev/Projects/Trainning/CCI-Exercise/Big-O/obj/",
+        "projectStyle": "PackageReference",
+        "fallbackFolders": [
+          "/usr/local/share/dotnet/sdk/NuGetFallbackFolder"
+        ],
+        "configFilePaths": [
+          "/Users/gcamou/.nuget/NuGet/NuGet.Config"
+        ],
+        "originalTargetFrameworks": [
+          "netcoreapp2.2"
+        ],
+        "sources": {
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "netcoreapp2.2": {
+            "projectReferences": {}
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "netcoreapp2.2": {
+          "dependencies": {
+            "Microsoft.NETCore.App": {
+              "suppressParent": "All",
+              "target": "Package",
+              "version": "[2.2.0, )",
+              "autoReferenced": true
+            }
+          },
+          "imports": [
+            "net461"
+          ],
+          "assetTargetFallback": true,
+          "warn": true
+        }
+      }
+    }
+  }
+}
