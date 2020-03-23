@@ -1,8 +1,11 @@
-public class Node
+namespace Big_O
 {
-    public Node Left { get; set; }
+    public class Node
+    {
+        public Node Left { get; set; }
 
-    public Node Right { get; set; }
+        public Node Right { get; set; }
 
-    public string Value { get; set; }
+        public string Value { get; set; }
+    }
 }

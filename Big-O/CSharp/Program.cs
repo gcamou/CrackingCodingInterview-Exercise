@@ -50,8 +50,9 @@ namespace Big_O
             //DateTime end = DateTime.Now;
             //Console.WriteLine("With Momory, Process Time: " + (end - start).Milliseconds.ToString());
         
-            Exercise1.PowerOfTwo(50);
+            //Exercise1.PowerOfTwo(50);
 
+            Demo.Solution.Run();
         }
     }
 }

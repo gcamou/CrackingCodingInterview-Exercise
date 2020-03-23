@@ -692,11 +692,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "/Volumes/gCamouInc/Dev/Projects/Trainning/CCI-Exercise/Big-O/Big-O.csproj",
+      "projectUniqueName": "/Volumes/gCamouInc/Dev/Projects/Trainning/CCI-Exercise/Big-O/CSharp/Big-O.csproj",
       "projectName": "Big-O",
-      "projectPath": "/Volumes/gCamouInc/Dev/Projects/Trainning/CCI-Exercise/Big-O/Big-O.csproj",
+      "projectPath": "/Volumes/gCamouInc/Dev/Projects/Trainning/CCI-Exercise/Big-O/CSharp/Big-O.csproj",
       "packagesPath": "/Users/gcamou/.nuget/packages/",
-      "outputPath": "/Volumes/gCamouInc/Dev/Projects/Trainning/CCI-Exercise/Big-O/obj/",
+      "outputPath": "/Volumes/gCamouInc/Dev/Projects/Trainning/CCI-Exercise/Big-O/CSharp/obj/",
       "projectStyle": "PackageReference",
       "fallbackFolders": [
         "/usr/local/share/dotnet/sdk/NuGetFallbackFolder"
